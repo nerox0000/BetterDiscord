@@ -14,12 +14,12 @@
   --alert-hsl: var(--alert-hue), calc(var(--alert-saturation) * var(--saturation-factor)), var(--alert-lightness);
   --alert-text-color: hsl(0,0%,100%);
   --success-color: #43b581;
-  --message-radius: 19px;
+  --message-radius: 12px;
   --message-padding-top: 8px;
   --message-padding-side: 12px;
   --main-textarea-color: var(--input-color);
   --main-textarea-border: var(--input-border-color);
-  --main-textarea-radius: 24px;
+  --main-textarea-radius: 12px;
   --media-radius: calc(var(--message-radius) / 1.65);
   --card-radius: 8px;
   --card-radius-big: 18px;
